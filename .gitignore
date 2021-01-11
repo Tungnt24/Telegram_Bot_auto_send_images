@@ -1,0 +1,5 @@
+__pycache__
+celerybeat-schedule
+.env
+images
+poetry.lock
